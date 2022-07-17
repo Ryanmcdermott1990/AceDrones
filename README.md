@@ -1,8 +1,6 @@
-![Example 1]()
+![Example 1](https://github.com/Ryanmcdermott1990/AceDrones/blob/main/AceDrones.gif)
 
 #+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#-----#+++++#
-
-![Example 2]()
 
 # C# - AceDrones 
 This project was for the final project of the C# unit at South Metro TAFE Certificate IV in programming.
